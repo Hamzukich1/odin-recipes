@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a simple html project that creates three websites for different recipes. I will be using some html tags to demonstrate  the use of those tags and also provide examples on how to use them correctly.
